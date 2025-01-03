@@ -20,6 +20,3 @@ log qso's ad export as adif
 ### **Dependencies**
 This script uses only standard Python libraries (`tkinter` for the GUI and `datetime` for time handling). No additional installation is required.
 
----
-
-Let me know if you need help with customization or enhancements!
