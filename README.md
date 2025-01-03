@@ -1,5 +1,5 @@
 # ADIF_Logger
-log qso's ad export as adif
+log qso's and export as adif
 
 ### **How It Works**
 1. **QSO Logging**:
